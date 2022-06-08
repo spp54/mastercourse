@@ -1,0 +1,12 @@
+//console.log("Now is the time for all good men".length)
+//console.log("'to come to the aid of the party'".length)
+//console.log("Now is the time for all good men".charAt(0).toUpperCase())
+//console.log("'to come to the aid of the party'"[0].toUpperCase())
+//console.log(5*5)
+//console.log("5"+" 5")
+//console.log(5*5*"5" + " hello")
+//console.log(Math.floor(Math.random()*9))
+//console.log(Math.ceil(Math.random()*2))
+let myname = "Steven PPPPPPPPPPPP"
+console.log(myname.toLowerCase()+ " likes pizza")
+console.log(myname.toUpperCase()+ " likes pizza")
